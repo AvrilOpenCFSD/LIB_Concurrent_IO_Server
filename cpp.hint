@@ -1,0 +1,2 @@
+#define LIBCONCURRENTIOSERVER_API __declspec(dllexport)
+#define LIBCONCURRENTIOSERVER_API __declspec(dllimport)
