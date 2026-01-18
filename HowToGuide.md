@@ -1,4 +1,4 @@
-````
+```
 void Avril_FSD::Concurrent::Thread_Concurrency(Avril_FSD::Framework_Server* obj, __int8 concurrent_coreId)
 {
     bool doneOnce = true;
@@ -60,4 +60,3 @@ void Avril_FSD::Concurrent::Thread_Concurrency(Avril_FSD::Framework_Server* obj,
         }
     }
 }
-````
