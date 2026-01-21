@@ -1,5 +1,4 @@
-# LIBRARY for Full Stack Development Template.
-## - Avril FSD Concurrent Input Output Server.
+# Avril - LIBRARY for Template for Concurrent Input Output Server with Full Stack Development.
 
 ### C# .NET Console.
 
