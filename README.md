@@ -1,5 +1,5 @@
-# Avril - LIBRARY Template For Concurrent Input Output Server In Full Stack Development.
-## Concurrent Server Boxed with Inputs and Outputs, Launchs a do thread for each praise event id.
+# LIBRARY Template For Avril Open Concurrent IO Server In Full Stack Development.
+## Concurrent Server Boxed with Inputs and Outputs, Launchs a do thread for each praise.
 
 ### C# .NET Console.
 
@@ -15,7 +15,7 @@ Version 17.13.4.
 
 ## Dependencies.
 ### WriteEnableForThreadsAtStacks.
- - https://github.com/OpenFSD/LIB_WriteEnableForThreadsAt_STACK
+ - https://github.com/AvrilOpenCFSD/LIB_WriteEnableForThreadsAt_STACK
 #### Similar Repositiry.
  - https://github.com/cameron314/readerwriterqueue
    
