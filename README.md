@@ -1,4 +1,4 @@
-# Avril - LIBRARY Template Of Concurrent Input Output Server For Full Stack Development.
+# Avril - LIBRARY Template For Concurrent Input Output Server In Full Stack Development.
 ## Concurrent Server Boxed with Inputs and Outputs, Launchs a do thread for each praise event id.
 
 ### C# .NET Console.
